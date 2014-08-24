@@ -16,23 +16,22 @@ Themes for your [Buildbox build status badges](https://buildbox.io/docs/guides/b
 
 ## Syntax
 
-You must specify at least the first three colors:
-
-* passed background color
-* failed background color
-* unknown background color
-
-You can then optionally specify any number of the following colors (in this order):
-
-* label background color
-* text color
-* status text color
-
-In other words:
+The syntax for themes is:
 
 ```
 passed-bg-color,failed-bg-color,unknown-bg-color[,label-bg-color[,text-color[,status-text-color]]]
 ```
+
+What this means is, you must specify at least the first three colors, but the rest are optional.
+
+![color syntax diagram](color-syntax-diagram.svg)
+
+1. passed background color
+2. failed background color
+3. unknown background color
+4. label background color (optional)
+5. text color (optional)
+6. status text color (optional)
 
 ## Contributing
 
