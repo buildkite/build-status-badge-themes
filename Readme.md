@@ -22,16 +22,16 @@ The syntax for themes is:
 passed-bg-color,failed-bg-color,unknown-bg-color[,label-bg-color[,text-color[,status-text-color]]]
 ```
 
-What this means is, you must specify at least the first three colors, but the rest are optional.
+You must specify at least the first three colors, but the rest are optional.
 
-![color syntax diagram](https://dl.dropboxusercontent.com/u/376613/color-syntax-diagram.svg)
+<img src="https://dl.dropboxusercontent.com/u/376613/color-syntax-diagram.svg" width="400">
 
-1. passed background color
-2. failed background color
-3. unknown background color
-4. label background color (optional)
-5. text color (optional)
-6. status text color (optional)
+1. passed background color *(required)*
+2. failed background color *(required)*
+3. unknown background color *(required)*
+4. label background color *(optional)*
+5. text color *(optional)*
+6. status text color *(optional)*
 
 ## Contributing
 
