@@ -36,4 +36,4 @@ passed-bg-color,failed-bg-color,unknown-bg-color[,label-bg-color[,text-color[,st
 
 ## Contributing
 
-Simply forking this repository, editing [themes.json](themes.json), and sending a pull request.
+Simply forking this repository, edit [themes.json](themes.json), and sending a pull request.
