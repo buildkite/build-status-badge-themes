@@ -1,8 +1,8 @@
 # Build Status Badge Themes
 
-![](http://media.giphy.com/media/pil2Ej4HWM7aU/giphy.gif)
+Themes for your [Buildbox build status badges](https://buildbox.io/docs/guides/build-status-badges).
 
-https://buildbox.io/docs/guides/build-status-badges
+![](http://media.giphy.com/media/pil2Ej4HWM7aU/giphy.gif)
 
 ## Current themes
 
