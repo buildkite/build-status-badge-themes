@@ -24,7 +24,7 @@ passed-bg-color,failed-bg-color,unknown-bg-color[,label-bg-color[,text-color[,st
 
 What this means is, you must specify at least the first three colors, but the rest are optional.
 
-![color syntax diagram](color-syntax-diagram.svg)
+![color syntax diagram](https://dl.dropboxusercontent.com/u/376613/color-syntax-diagram.svg)
 
 1. passed background color
 2. failed background color
