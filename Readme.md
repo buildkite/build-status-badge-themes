@@ -12,6 +12,8 @@ Themes for your [Buildbox build status badges](https://buildbox.io/docs/guides/b
 | slack   | ![](https://badge.buildbox.io/sample.svg?status=passed&theme=slack)  | ![](https://badge.buildbox.io/sample.svg?status=failed&theme=slack)  | ![](https://badge.buildbox.io/sample.svg?status=unknown&theme=slack)  |
 | github  | ![](https://badge.buildbox.io/sample.svg?status=passed&theme=github) | ![](https://badge.buildbox.io/sample.svg?status=failed&theme=github) | ![](https://badge.buildbox.io/sample.svg?status=unknown&theme=github) |
 | saturn  | ![](https://badge.buildbox.io/sample.svg?status=passed&theme=saturn) | ![](https://badge.buildbox.io/sample.svg?status=failed&theme=saturn) | ![](https://badge.buildbox.io/sample.svg?status=unknown&theme=saturn) |
+| flickr  | ![](https://badge.buildbox.io/sample.svg?status=passed&theme=flickr) | ![](https://badge.buildbox.io/sample.svg?status=failed&theme=flickr) | ![](https://badge.buildbox.io/sample.svg?status=unknown&theme=flickr) |
+| solarized  | ![](https://badge.buildbox.io/sample.svg?status=passed&theme=solarized) | ![](https://badge.buildbox.io/sample.svg?status=failed&theme=solarized) | ![](https://badge.buildbox.io/sample.svg?status=unknown&theme=solarized) |
 | mono    | ![](https://badge.buildbox.io/sample.svg?status=passed&theme=mono)   | ![](https://badge.buildbox.io/sample.svg?status=failed&theme=mono)   | ![](https://badge.buildbox.io/sample.svg?status=unknown&theme=mono)    |
 
 ## Syntax
