@@ -12,7 +12,7 @@ Themes for your [Buildbox build status badges](https://buildbox.io/docs/guides/b
 | slack   | ![](https://badge.buildbox.io/sample.svg?status=passed&theme=slack)  | ![](https://badge.buildbox.io/sample.svg?status=failed&theme=slack)  | ![](https://badge.buildbox.io/sample.svg?status=unknown&theme=slack)  |
 | github  | ![](https://badge.buildbox.io/sample.svg?status=passed&theme=github) | ![](https://badge.buildbox.io/sample.svg?status=failed&theme=github) | ![](https://badge.buildbox.io/sample.svg?status=unknown&theme=github) |
 | saturn  | ![](https://badge.buildbox.io/sample.svg?status=passed&theme=saturn) | ![](https://badge.buildbox.io/sample.svg?status=failed&theme=saturn) | ![](https://badge.buildbox.io/sample.svg?status=unknown&theme=saturn) |
-| mono    | ![](https://badge.buildbox.io/sample.svg?status=passed&theme=mono)   | ![](https://badge.buildbox.io/sample.svg?status=passed&theme=mono)   | ![](https://badge.buildbox.io/sample.svg?status=passed&theme=mono)    |
+| mono    | ![](https://badge.buildbox.io/sample.svg?status=passed&theme=mono)   | ![](https://badge.buildbox.io/sample.svg?status=failed&theme=mono)   | ![](https://badge.buildbox.io/sample.svg?status=unknown&theme=mono)    |
 
 ## Syntax
 
