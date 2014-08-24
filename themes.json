@@ -1,7 +1,9 @@
 {
-  "default": "4c1,f00,aaa,555",
-  "slack":   "77992e,d7100c,82d3e0,5c3957,fff",
-  "github":  "77F177,faa,aaa",
-  "saturn":  "7450b6,ffb899,74cab4,201632",
-  "mono":    "fff,fff,fff,555,fff,555"
+  "default":   "4c1,f00,aaa,555",
+  "slack":     "77992e,d7100c,82d3e0,5c3957,fff",
+  "github":    "77F177,F88,aaa,666",
+  "saturn":    "31a7c9,db8958,675a80,201632,b4a1d6,fff",
+  "flickr":    "0c5edb,ee0882,999,333,fff",
+  "solarized": "859900,dc322f,586e75,073642,eee8d5,fdf6e3",
+  "mono":      "aaa,aaa,aaa,555"
 }
