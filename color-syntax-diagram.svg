@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-303 -71 396 310" enable-background="new -303 -71 396 310" xml:space="preserve">
+<g>
+	<path fill="none" stroke="#000000" stroke-width="1.0323" stroke-miterlimit="10" d="M21.5,23.6h-268c-6.6,0-12-5.4-12-12v-34.7
+		c0-6.6,5.4-12,12-12h268c6.6,0,12,5.4,12,12v34.7C33.5,18.2,28.1,23.6,21.5,23.6z"/>
+	<line fill="none" stroke="#000000" stroke-width="1.0323" stroke-miterlimit="10" x1="-130.6" y1="-35.1" x2="-130.6" y2="23.6"/>
+</g>
+<text transform="matrix(1 0 0 1 -237.0804 7.3355)" font-family="'Verdana'" font-size="35.881">build</text>
+<text transform="matrix(1 0 0 1 -112.4998 7.3355)" font-family="'Verdana'" font-size="35.881">passed</text>
+<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="-210" cy="-15.2" r="8.5"/>
+<text transform="matrix(1 0 0 1 -213 -11.2143)" font-family="'Verdana'" font-size="10">6</text>
+<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="-85.2" cy="-14.2" r="8.5"/>
+<text transform="matrix(1 0 0 1 -88.1837 -10.2143)" font-family="'Verdana'" font-size="10">5</text>
+<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="-242.5" cy="23.6" r="8.5"/>
+<text transform="matrix(1 0 0 1 -245.5 27.6429)" font-family="'Verdana'" font-size="10">4</text>
+<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="25" cy="23.6" r="8.5"/>
+<text transform="matrix(1 0 0 1 22 27.6429)" font-family="'Verdana'" font-size="10">1</text>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.9843" stroke-miterlimit="10" d="M-5,116.1h-241.5c-6.6,0-12-5.4-12-12V69.4
+		c0-6.6,5.4-12,12-12H-5c6.6,0,12,5.4,12,12v34.7C7,110.7,1.6,116.1-5,116.1z"/>
+	<line fill="none" stroke="#000000" stroke-width="1.0323" stroke-miterlimit="10" x1="-130.6" y1="57.4" x2="-130.6" y2="116.1"/>
+</g>
+<text transform="matrix(1 0 0 1 -237.0804 99.8355)" font-family="'Verdana'" font-size="35.881">build</text>
+<text transform="matrix(1 0 0 1 -112.4998 99.8355)" font-family="'Verdana'" font-size="35.881">failed</text>
+<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="-210" cy="77.3" r="8.5"/>
+<text transform="matrix(1 0 0 1 -213 81.2857)" font-family="'Verdana'" font-size="10">6</text>
+<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="-85.2" cy="78.3" r="8.5"/>
+<text transform="matrix(1 0 0 1 -88.1837 82.2857)" font-family="'Verdana'" font-size="10">5</text>
+<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="-242.5" cy="116.1" r="8.5"/>
+<text transform="matrix(1 0 0 1 -245.5 120.1429)" font-family="'Verdana'" font-size="10">4</text>
+<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="-6" cy="116.1" r="8.5"/>
+<text transform="matrix(1 0 0 1 -9 120.1429)" font-family="'Verdana'" font-size="10">2</text>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="1.0869" stroke-miterlimit="10" d="M53.2,200.6h-299.7c-6.6,0-12-5.4-12-12v-34.7
+		c0-6.6,5.4-12,12-12H53.2c6.6,0,12,5.4,12,12v34.7C65.2,195.2,59.8,200.6,53.2,200.6z"/>
+	<line fill="none" stroke="#000000" stroke-width="1.0323" stroke-miterlimit="10" x1="-130.6" y1="141.9" x2="-130.6" y2="200.6"/>
+</g>
+<text transform="matrix(1 0 0 1 -237.0804 184.3355)" font-family="'Verdana'" font-size="35.881">build</text>
+<text transform="matrix(1 0 0 1 -112.4998 184.3355)" font-family="'Verdana'" font-size="35.881">unknown</text>
+<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="-210" cy="161.8" r="8.5"/>
+<text transform="matrix(1 0 0 1 -213 165.7857)" font-family="'Verdana'" font-size="10">6</text>
+<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="-85.2" cy="162.8" r="8.5"/>
+<text transform="matrix(1 0 0 1 -88.1837 166.7857)" font-family="'Verdana'" font-size="10">5</text>
+<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="-242.5" cy="200.6" r="8.5"/>
+<text transform="matrix(1 0 0 1 -245.5 204.6429)" font-family="'Verdana'" font-size="10">4</text>
+<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="52" cy="200.6" r="8.5"/>
+<text transform="matrix(1 0 0 1 49 204.6429)" font-family="'Verdana'" font-size="10">3</text>
+</svg>
